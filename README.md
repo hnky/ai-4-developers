@@ -5,10 +5,10 @@ Dive into what's next and discover the capabilities of advanced language models 
 
 
 ### Multi Model
-- [GPT Models]()
-- [DALL-E 3]()
-- [Whispers]()
-- [GPT4 Turbo with Vision]()
+- [GPT Models](https://learn.microsoft.com/azure/ai-services/openai/concepts/models)
+- [DALL-E 3](https://learn.microsoft.com/azure/ai-services/openai/dall-e-quickstart)
+- [Whispers](https://learn.microsoft.com/azure/ai-services/openai/whisper-quickstart)
+- [GPT4 Turbo with Vision](https://learn.microsoft.com/azure/ai-services/openai/gpt-v-quickstart)
 
 ### How language mdoels work
 - [A Deep Dive into the Inner Workings of Large Language and Foundation Models](https://www.youtube.com/watch?v=vMVHj9VIrLA)
@@ -20,5 +20,5 @@ Dive into what's next and discover the capabilities of advanced language models 
 - [prompt Flow]()
 
 ### Assistants
-- [OpenAI Function Calling]()
-- [Assistance API]()
+- [Function Calling](https://learn.microsoft.com/azure/ai-services/openai/how-to/function-calling)
+- [Assistance API](https://learn.microsoft.com/azure/ai-services/openai/how-to/assistant)
