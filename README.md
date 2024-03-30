@@ -14,11 +14,15 @@ Dive into what's next and discover the capabilities of advanced language models 
 - [A Deep Dive into the Inner Workings of Large Language and Foundation Models](https://www.youtube.com/watch?v=vMVHj9VIrLA)
 
 ### Building Applications
-- [RAG]()
-- [Azure AI Search]()
-- [Azure AI Studio]()
-- [prompt Flow]()
+- [Azure OpenAI On Your Data](https://learn.microsoft.com/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search)
+- [Azure AI Search](https://learn.microsoft.com/azure/search/)
+- [Azure AI Studio](https://learn.microsoft.com/azure/ai-studio/)
+- [Prompt Flow](https://learn.microsoft.com/azure/ai-studio/how-to/prompt-flow)
 
 ### Assistants
 - [Function Calling](https://learn.microsoft.com/azure/ai-services/openai/how-to/function-calling)
 - [Assistance API](https://learn.microsoft.com/azure/ai-services/openai/how-to/assistant)
+
+### Community
+- [Global AI Community](https://globalai.community/)
+- [Azure AI Discord]()
