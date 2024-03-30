@@ -3,13 +3,20 @@ Dive into what's next and discover the capabilities of advanced language models 
 
 
 ### Multi Model
-
+- [GPT Models]()
+- [DALL-E 3]()
+- [Whispers]()
+- [GPT4 Turbo with Vision]()
 
 ### How language mdoels work
-
+- [A Deep Dive into the Inner Workings of Large Language and Foundation Models](https://www.youtube.com/watch?v=vMVHj9VIrLA)
 
 ### Building Applications
-
-
+- [RAG]()
+- [Azure AI Search]()
+- [Azure AI Studio]()
+- [prompt Flow]()
 
 ### Assistants
+- [OpenAI Function Calling]()
+- [Assistance API]()
